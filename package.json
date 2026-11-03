@@ -1,7 +1,7 @@
 {
   "name": "aternos-afk-bot",
-  "version": "3.1.0",
-  "description": "Realistic Natural Movement AFK Bot for Aternos Server Playfun-C1IM.aternos.me:52411",
+  "version": "4.1.0",
+  "description": "AFK Bot with Persistent Connection & Disconnection Audit Logs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

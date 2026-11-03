@@ -2,12 +2,12 @@
   "server": {
     "host": "Playfun-C1IM.aternos.me",
     "port": 52411,
-    "version": 1.21.11
+    "version": "1.20.4"
   },
   "bot": {
     "username": "Nishant_AFK_Bot",
-    "antiAfk": false,
-    "actionIntervalSeconds": 7,
+    "antiAfk": true,
+    "actionIntervalSeconds": 8,
     "autoChatResponse": true,
     "reconnectDelaySeconds": 20
   },

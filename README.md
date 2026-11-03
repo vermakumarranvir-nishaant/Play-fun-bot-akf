@@ -1,8 +1,7 @@
-# Playfun Aternos AFK Bot
+# AFK Bot with Dedicated Connection Logs
 
-Configured Server: `Playfun-C1IM.aternos.me:52411`
-
-### Files:
-- `settings.json`: IP, Port, Bot Name aur Anti-AFK configurations.
-- `index.js`: Main bot logic aur Express web server for cloud hosting.
-- `package.json`: Node.js dependencies (mineflayer, express).
+Features:
+- Dedicated **Connect / Disconnect Logs** window with exact timestamps.
+- **Total Connects** and **Total Disconnects** counters.
+- Server Kick reason parser (shows why Aternos kicked the bot).
+- In-game movement and chat activity feed.
