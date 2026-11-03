@@ -6,7 +6,7 @@
   },
   "bot": {
     "username": "Nishant_AFK_Bot",
-    "antiAfk": true,
+    "antiAfk": false,
     "actionIntervalSeconds": 7,
     "autoChatResponse": true,
     "reconnectDelaySeconds": 20
