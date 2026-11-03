@@ -2,7 +2,7 @@
   "server": {
     "host": "Playfun-C1IM.aternos.me",
     "port": 52411,
-    "version": false
+    "version": 1.21.11
   },
   "bot": {
     "username": "Nishant_AFK_Bot",
