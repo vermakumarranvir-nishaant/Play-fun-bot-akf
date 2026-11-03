@@ -1,0 +1,17 @@
+{
+  "server": {
+    "host": "Playfun-C1IM.aternos.me",
+    "port": 52411,
+    "version": false
+  },
+  "bot": {
+    "username": "Nishant_AFK_Bot",
+    "antiAfk": true,
+    "actionIntervalSeconds": 7,
+    "autoChatResponse": true,
+    "reconnectDelaySeconds": 20
+  },
+  "webServer": {
+    "port": 3000
+  }
+}

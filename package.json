@@ -1,0 +1,13 @@
+{
+  "name": "aternos-afk-bot",
+  "version": "3.1.0",
+  "description": "Realistic Natural Movement AFK Bot for Aternos Server Playfun-C1IM.aternos.me:52411",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mineflayer": "^4.20.1"
+  }
+}
